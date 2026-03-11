@@ -129,7 +129,7 @@ java -cp out Main
 
 ## 👤 Author
 
-**Mihai Istrate**  
+**Istrate Mihai Septimius**  
 Java development portfolio — built as part of a 20-tier Java mastery curriculum.
 
 ---
